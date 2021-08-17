@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Leon! 👋
+
+I'm interested in new technologies and I love learning them. I'm currently learning web / app development.
+
+As a beginner developer, I'm looking to learn more from other developers.
+
+
 
 <!--
 **kchleon/kchleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
