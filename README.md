@@ -4,6 +4,7 @@ I'm interested in new technologies and I love learning them. I'm currently learn
 
 As a beginner developer, I'm looking to learn more from other developers.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kchleon&show_icons=true&count_private=true&theme=tokyonight&icon_color=blue&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
