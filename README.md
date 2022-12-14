@@ -1,6 +1,6 @@
 ### Hi, I'm Leon! 👋
 
-I'm interested in new technologies and I love learning them. I'm currently a postgraduate student studying Data Science.
+I'm interested in new technologies and I love learning them. I'm currently a postgraduate student studying Data Science and Decisions.
 
 I'm looking forward to learning more from others.
 
